@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronortur.github.io/sitemap.html.gz
+Sitemap: https://ronortur.github.io/app/sitemap.html.gz
+Sitemap: https://ronortur.github.io/assets/sitemap.html.gz
+Sitemap: https://ronortur.github.io/css/sitemap.html.gz
+Sitemap: https://ronortur.github.io/data/sitemap.html.gz
+Sitemap: https://ronortur.github.io/includes/sitemap.html.gz
+Sitemap: https://ronortur.github.io/item/sitemap.html.gz
+Sitemap: https://ronortur.github.io/src/sitemap.html.gz
